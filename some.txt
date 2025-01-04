@@ -1,0 +1,7 @@
+hockey
+cricket
+baseball
+throwball
+basketball
+tabeltennis
+
