@@ -1,0 +1,6 @@
+Based on your output, it looks like your commits have been successfully made locally, but there might be a couple of things preventing them from appearing in your GitHub repository. Here’s a step-by-step guide to help you troubleshoot and ensure your changes appear on GitHub.
+
+1. Check if Changes Were Pushed to the Correct Branch
+From the git log output, you can see that the latest commit in feature-branch and main is the same (commit 354f2e686275e11749fd44cb4c24f195eca36d5b). This means that both branches have the same commit, which is good. However, you might be looking at the wrong branch on GitHub.
+
+To ensure that you're pushing to the correct branch on GitHub:
