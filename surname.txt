@@ -1,0 +1,4 @@
+houses 
+hotels
+bedrooms
+ bathrooms
